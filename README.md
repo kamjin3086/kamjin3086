@@ -4,7 +4,7 @@
 
 We are all trying to follow our own way of living, but don't forget the beginning.
 
-## Arming yourself in a way that uses perception and thinking is the most valuable weapon of all.
+**Arming yourself in a way that uses perception and thinking is the most valuable weapon of all.**
 
 Fun fact: Many developers are arrogant and conceited, but the layman doesn't see it that way, which is sometimes annoying and fascinating.
 
