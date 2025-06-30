@@ -6,7 +6,7 @@ We are all trying to follow our own way of living, but don't forget the beginnin
 
 **Lifelong learning and deliberate practice empower you with knowledge and intellectual depth to resist illusions of truth.**
 
-Fun fact: Many developers are arrogant and conceited, but the layman doesn't see it that way, which is sometimes annoying and fascinating.
+⚡️Fun fact: A lot of developers can come off as arrogant, but non-tech folks often don’t notice, which is both annoying and kind of intriguing.
 
 ![Snake animation](https://raw.githubusercontent.com/kamjin3086/kamjin3086/output/github-contribution-grid-snake-dark.svg)
 
