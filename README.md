@@ -4,11 +4,11 @@
 
 We are all trying to follow our own way of living, but don't forget the beginning.
 
-**Arming yourself in a way that uses perception and thinking is the most valuable weapon of all.**
+**Lifelong learning and deliberate practice empower you with knowledge and intellectual depth to resist illusions of truth.**
 
 Fun fact: Many developers are arrogant and conceited, but the layman doesn't see it that way, which is sometimes annoying and fascinating.
 
 ![Snake animation](https://raw.githubusercontent.com/kamjin3086/kamjin3086/output/github-contribution-grid-snake-dark.svg)
 
-  >>>>>>>>>>>>>>>> Regular programmers will soon be replaced by AI in large numbers, but cognitively rich thinkers will not.
-> 
+  >>>>>>>>>>>>>>>> AI will soon replace many routine programming jobs, but not those requiring deep, creative thinking.
+
