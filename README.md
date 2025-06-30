@@ -1,6 +1,6 @@
 ## Today, AI programming is prevalent
 
-`code is cheap ,show me your talk...`
+`Code is cheap. Show me the talk...`
 
 We are all trying to follow our own way of living, but don't forget the beginning.
 
