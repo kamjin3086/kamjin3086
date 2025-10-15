@@ -12,4 +12,4 @@ We are all trying to follow our own way of living, but don't forget the beginnin
 
   >>>>>>>>>>>>>>>> AI will soon replace many routine programming jobs, but not those requiring deep, creative thinking.
 
->[Send Me Email...](mailto:kamjindev@gmail.com?subject=Hello,&body=)
+>[Send Me Email..](mailto:kamjindev@gmail.com?subject=Hello,&body=)
